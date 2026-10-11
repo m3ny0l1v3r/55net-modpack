@@ -1,12 +1,17 @@
 # 55net Modpack
 
-Minecraft 26.2 mit Fabric und Simple Voice Chat für **mc.55net.de** - Servereintrag ist schon drin.
+Modpacks für 55net.de zum Importieren in Prism Launcher / die Modrinth-App.
+
+## tech (NeoForge)
+
+Minecraft 1.21.1 mit NeoForge 21.1.251 für **tech.55net.de**: Mekanism, Applied Energistics 2, GuideME, Orbital Railgun (NeoForge), Geckolib, No Chat Restrictions.
 
 **Importieren:** Prism Launcher → *Instanz hinzufügen* → *Importieren* (Modrinth-App: *Importieren*),
 diesen Link einfügen:
 
-    https://raw.githubusercontent.com/m3ny0l1v3r/55net-modpack/main/55net-voicechat.mrpack
+    https://raw.githubusercontent.com/m3ny0l1v3r/55net-modpack/main/55net-tech.mrpack
 
-Ohne das Modpack kann man auf dem Server ganz normal spielen, nur ohne Sprachchat.
+Direkt verbinden über `tech.55net.de` - über die Lobby/`mc.55net.de` geht es mit einem
+NeoForge-Client nicht (wird dort clientseitig abgelehnt).
 
-_Wird automatisch erzeugt (mc-netzwerk, scripts/build-modpack.sh) - bitte nicht von Hand ändern._
+_Wird automatisch erzeugt (mc-netzwerk) - bitte nicht von Hand ändern._
