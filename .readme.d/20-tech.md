@@ -1,6 +1,6 @@
 ## tech (NeoForge)
 
-Minecraft 1.21.1 mit NeoForge 21.1.251 für **tech.55net.de**: Mekanism, Applied Energistics 2, GuideME, Orbital Railgun (NeoForge), Geckolib, No Chat Restrictions.
+Minecraft 1.21.1 mit NeoForge 21.1.251 für **tech.55net.de**: Create, Mekanism, Applied Energistics 2, GuideME, Orbital Railgun (NeoForge), Geckolib, No Chat Restrictions, Just Enough Items (JEI).
 
 **Importieren:** Prism Launcher → *Instanz hinzufügen* → *Importieren* (Modrinth-App: *Importieren*),
 diesen Link einfügen:
